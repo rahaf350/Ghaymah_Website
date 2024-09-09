@@ -6,6 +6,7 @@ the child can choose what is appropriate to his interest. The idea of an educati
 of human-computer interaction, where we will use visual and audible communication that will help a
 child interact with the site through a user experience suitable for children
 
+# Interfaces
 ![image](https://github.com/user-attachments/assets/15e0e5c6-d27a-450e-8311-b62c66fb31d5)
 ![image](https://github.com/user-attachments/assets/d36f1ffe-febb-4c46-869d-38f4a8096674)
 ![image](https://github.com/user-attachments/assets/24a22405-7fa3-4218-888e-83d2bc741aa5)
