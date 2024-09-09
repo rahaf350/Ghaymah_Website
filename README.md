@@ -5,3 +5,9 @@ creation of an educational site for children, aimed at educating them amusingly 
 the child can choose what is appropriate to his interest. The idea of an educational site is in the field
 of human-computer interaction, where we will use visual and audible communication that will help a
 child interact with the site through a user experience suitable for children
+
+![image](https://github.com/user-attachments/assets/15e0e5c6-d27a-450e-8311-b62c66fb31d5)
+
+
+
+
